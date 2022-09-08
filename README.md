@@ -1,2 +1,4 @@
-# myNewDepo01
-test depo for SSH connectivity
+# myNewDepo01 "
+A wonderful new depo for test SSH connectivity
+## Great New Features ##
+Lots of great new features for users to enjoy!
